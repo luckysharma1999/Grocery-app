@@ -125,13 +125,16 @@ function App() {
                       {selectedItems.find((item) => item.name === eng) && (
                         <div className="inputs">
                           <input
-                            type="text"
+                            type="number"
+                            inputMode="numeric"
+                            pattern="[0-9]*"
                             placeholder="Quantity"
                             value={inputStates[eng]?.quantity || ""}
                             onChange={(e) =>
                               handleInputChange(eng, "quantity", e.target.value)
                             }
                           />
+
                           <select
                             value={inputStates[eng]?.unit || ""}
                             onChange={(e) =>
