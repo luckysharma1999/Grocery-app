@@ -1,0 +1,87 @@
+
+{
+  "grains_and_flours": {
+    "Atta": "आटा",
+    "Rice": "चावल",
+    "Basmati Rice": "बासमती चावल",
+    "Suji": "सूजी",
+    "Besan": "बेसन",
+    "Maida (Refined Flour)": "मैदा",
+    "Poha (Flattened Rice)": "पोहा"
+  },
+  "pulses_and_lentils": {
+    "Chana Dal": "चना दाल",
+    "Toor Dal": "तुअर दाल",
+    "Urad Dal": "उड़द दाल",
+    "Moong Dal": "मूंग दाल",
+    "Masoor Dal": "मसूर दाल",
+    "Rajma (Kidney Beans)": "राजमा",
+    "Kabuli Chana": "काबुली चना",
+    "Kala Chana": "काला चना"
+  },
+  "spices": {
+    "Jeera": "जीरा",
+    "Mustard Seeds": "सरसों के दाने",
+    "Haldi": "हल्दी",
+    "Dhaniya Powder": "धनिया पाउडर",
+    "Jeera Powder": "जीरा पाउडर",
+    "Red Chili Powder": "लाल मिर्च पाउडर",
+    "Garam Masala": "गरम मसाला",
+    "Hing ": "हींग",
+    "Amchur": "अमचूर",
+    "Black Pepper": "काली मिर्च",
+    "Tej Patta": "तेज पत्ता",
+    "Laung": "लौंग",
+    "Elaichi": "इलायची",
+    "DalChini": "दालचीनी",
+    "Methi dana": "मेथी दाना"
+  },
+  "dairy_and_oils": {
+    "Milk": "दूध",
+    "Full Cream Milk": "दूध फुल क्रीम ",
+    "Toned Milk": "दूध टोन",
+    "Double Toned Milk": "दूध डबल टोन",
+    "Milk Buffalo": " दूध भैंस ",
+    "Dahi": "दही",
+    "Ghee (Clarified Butter)": "घी",
+    "Butter": "मक्खन",
+    "Paneer (Cottage Cheese)": "पनीर",
+    "Amul Paneer": "अमूल पनीर",
+    "Cooking Oil": "तेल",
+    "Mustard Oil": "सरसों का तेल",
+    "Refined Oil": "रिफाइंड तेल"
+  },
+  "other": {
+    "Salt": "नमक",
+    "Sugar": "चीनी",
+    "Tamarind": "इमली",
+    "Jaggery": "गुड़",
+    "Lemon": "नींबू",
+    "Vinegar": "सिरका",
+    "Baking Soda": "सोडा",
+    "Baking Powder": "बेकिंग पाउडर",
+    "Bread": "ब्रेड",
+    "20-20 Biscuits": "20-20 बिस्किट",
+    "Achaar": "अचार"
+  },
+  "vegetables": {
+    "Potato": "आलू",
+    "Onion": "प्याज",
+    "Tomato": "टमाटर",
+    "Patta Gobhi": "पत्ता गोभी",
+    "Fool Gobhi": "फूलगोभी",
+    "Carrot": "गाजर",
+    "Peas": "मटर",
+    "Capsicum": "शिमला मिर्च",
+    "Spinach": "पालक",
+    "Bottle Gourd": "लौकी",
+    "Bitter Gourd": "करेला",
+    "Pumpkin": "कद्दू",
+    "Coriander Leaves": "धनिया पत्ता",
+    "Fenugreek Leaves": "मेथी पत्ता",
+    "Curry Leaves": "करी पत्ता",
+    "Garlic": "लहसुन",
+    "Ginger": "अदरक",
+    "Green Chili": "हरी मिर्च"
+  }
+}
