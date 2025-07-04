@@ -147,6 +147,7 @@ function App() {
                             <option value="पैकेट">पैकेट</option>
                             <option value="लीटर">लीटर</option>
                             <option value="पीपा">पीपा</option>
+                            <option value="बॉक्स">बॉक्स</option>
                           </select>
                         </div>
                       )}
