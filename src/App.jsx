@@ -91,7 +91,7 @@ function App() {
               <h3
                 style={{
                   marginTop: "30px",
-                  color: "#444",
+                  color: "lightseagreen",
                   borderBottom: "1px solid #ccc",
                   paddingBottom: "4px",
                 }}
